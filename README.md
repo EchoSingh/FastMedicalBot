@@ -2,7 +2,7 @@
 
 ![Medical Bot](https://cdn.dribbble.com/users/29678/screenshots/2407580/media/34ee4b818fd4ddb3a616c91ccf4d9cfc.png)
 
-![Result]()
+![Result](https://github.com/aditya26062003/FastMedicalBot/blob/main/result1.png)
 ## Get Answers in Seconds
 
 This repository contains a medical chatbot powered by the Medical-Llama3-8B model. The chatbot is designed to assist users with medical queries using a conversational retrieval chain.
