@@ -9,4 +9,3 @@ accelerate
 torch
 scikit-learn
 gradio
-typer
