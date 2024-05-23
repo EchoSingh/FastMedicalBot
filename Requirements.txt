@@ -1,0 +1,12 @@
+langchain
+sentence_transformers
+pypdf
+faiss-cpu
+langchain_community
+bitsandbytes
+transformers
+accelerate
+torch
+scikit-learn
+gradio
+typer
