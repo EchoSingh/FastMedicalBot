@@ -44,7 +44,7 @@ This repository contains a medical chatbot powered by the Medical-Llama3-8B mode
 
 ### Using the Model
 
-Download the `Medical-Llama3-8B` model from this [link](https://huggingface.co/ruslanmv/Medical-Llama3-8B).
+`Biomistral'.
 
 ## Usage
 
@@ -67,5 +67,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The `Medical-Llama3-8B` model by [ruslanmv](https://huggingface.co/ruslanmv)
+- The `Biomistral` 
 - [Gradio](https://gradio.app/) for providing a user-friendly interface for machine learning models
