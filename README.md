@@ -26,7 +26,7 @@ This repository contains a medical chatbot powered by the Medical-Llama3-8B mode
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/medical-chatbot.git
+    git clone https://github.com/EchoSingh/medical-chatbot.git
     cd medical-chatbot
     ```
 
